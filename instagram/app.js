@@ -30,10 +30,6 @@ async function bot() {
   await page.keyboard.type("Lindoooooooos");
   await page.click(".sqdOP.yWX7d.y3zKF");
 
-  // const { email, password } = values;
-
-  // sendEmail(email, password);
-
   // await browser.close();
 }
 
